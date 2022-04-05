@@ -1,0 +1,12 @@
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Models\bin\Debug\net6.0\RazorPagesGeneral.Models.deps.json
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Models\bin\Debug\net6.0\RazorPagesGeneral.Models.dll
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Models\bin\Debug\net6.0\ref\RazorPagesGeneral.Models.dll
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Models\bin\Debug\net6.0\RazorPagesGeneral.Models.pdb
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Models\obj\Debug\net6.0\RazorPagesGeneral.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Models\obj\Debug\net6.0\RazorPagesGeneral.Models.AssemblyInfoInputs.cache
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Models\obj\Debug\net6.0\RazorPagesGeneral.Models.AssemblyInfo.cs
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Models\obj\Debug\net6.0\RazorPagesGeneral.Models.csproj.CoreCompileInputs.cache
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Models\obj\Debug\net6.0\RazorPagesGeneral.Models.dll
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Models\obj\Debug\net6.0\ref\RazorPagesGeneral.Models.dll
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Models\obj\Debug\net6.0\RazorPagesGeneral.Models.pdb
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Models\obj\Debug\net6.0\RazorPagesGeneral.Models.csproj.AssemblyReference.cache

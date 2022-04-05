@@ -1,0 +1,17 @@
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\bin\Debug\net6.0\RazorPagesGeneral.Services.deps.json
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\bin\Debug\net6.0\RazorPagesGeneral.Services.dll
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\bin\Debug\net6.0\ref\RazorPagesGeneral.Services.dll
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\bin\Debug\net6.0\RazorPagesGeneral.Services.pdb
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\bin\Debug\net6.0\RazorPagesGeneral.Models.dll
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\bin\Debug\net6.0\RazorPagesGeneral.Models.pdb
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\obj\Debug\net6.0\RazorPagesGeneral.Services.csproj.AssemblyReference.cache
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\obj\Debug\net6.0\RazorPagesGeneral.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\obj\Debug\net6.0\RazorPagesGeneral.Services.AssemblyInfoInputs.cache
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\obj\Debug\net6.0\RazorPagesGeneral.Services.AssemblyInfo.cs
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\obj\Debug\net6.0\RazorPagesGeneral.Services.csproj.CoreCompileInputs.cache
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\obj\Debug\net6.0\RazorPagesGeneral.Services.csproj.CopyComplete
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\obj\Debug\net6.0\RazorPagesGeneral.Services.dll
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\obj\Debug\net6.0\ref\RazorPagesGeneral.Services.dll
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\obj\Debug\net6.0\RazorPagesGeneral.Services.pdb
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\bin\Debug\net6.0\RazorPagesGeneral.Services.runtimeconfig.json
+D:\Temp\C# learning\RazorPagesGeneral\RazorPagesGeneral.Services\obj\Debug\net6.0\RazorPagesGeneral.Services.genruntimeconfig.cache

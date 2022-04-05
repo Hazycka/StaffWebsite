@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14c7e04d-8fe5-4e51-9b1b-fee66d1fb4fc": {
+      "ProjectGuid": "14c7e04d-8fe5-4e51-9b1b-fee66d1fb4fc",
+      "DisplayName": "RazorPagesGeneral",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c0dd7a05-3c22-4176-82ec-c124a2c311c3": {
+      "ProjectGuid": "c0dd7a05-3c22-4176-82ec-c124a2c311c3",
+      "DisplayName": "RazorPagesGeneral.Services",
+      "ColorIndex": 1
+    },
+    "88ddaf7f-01f8-4f81-9e23-67a94835689f": {
+      "ProjectGuid": "88ddaf7f-01f8-4f81-9e23-67a94835689f",
+      "DisplayName": "RazorPagesGeneral.Models",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
